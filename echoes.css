@@ -580,7 +580,7 @@ text-align:center;}
 
 /* RESPONSIVE TEL */
 
-@media screen and (max-width: 640px){
+@media (max-width: 640px){
 .widget_pa{display:none!important;}
   #fa_menu{display:none!important;}
 }
