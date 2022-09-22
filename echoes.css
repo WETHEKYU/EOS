@@ -578,10 +578,5 @@ text-align:center;}
 .cate_ssfo a{font-size:6.5px;}
 
 
-/* RESPONSIVE TEL */
 
-@media (max-width: 640px){
-.widget_pa{display:none!important;}
-  #fa_menu{display:none!important;}
-}
 
