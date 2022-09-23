@@ -579,9 +579,9 @@ flex-direction:column;
 text-align:center;}
 
 .cate_ssfo a{font-size:6.5px;
-color:var(--gris);}
+color:var(--gris)!important;}
 
 .cate_ssfo a:hover{font-size:6.5px;
-color:var(--v);}
+color:var(--v)!important;}
 
 
