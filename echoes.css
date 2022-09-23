@@ -575,12 +575,12 @@ margin-right:-40px;
 margin-top:20px;
 display:flex;
 flex-direction:column;
-text-align:center;}
+text-align:center;
+font-size:0px;}
 
-.cate_ssfo a{font-size:8px;
+.cate_ssfo a{font-size:8px; line-height:11px;
 color:var(--gris)!important; transition:all 0.5s;}
 
 .cate_ssfo a:hover{
 color:var(--v)!important;text-decoration:none!important; letter-spacing:-0.5px;}
-
 
