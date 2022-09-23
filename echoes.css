@@ -565,7 +565,10 @@ margin-left:20px;}
 .last-post-icon img{width:10px;  margin-bottom:-2px;}
 
 .cate_ssfo{width:103px;
-height:65px; font-size:2px; border:0px solid white;
+height:65px; 
+font-size:2px; 
+overflow-y:auto;
+border:0px solid white;
 margin-left:8px;
 font-style:italic;
 position:relative; 
@@ -576,6 +579,4 @@ flex-direction:column;
 text-align:center;}
 
 .cate_ssfo a{font-size:6.5px;}
-
-
 
