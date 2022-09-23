@@ -579,9 +579,9 @@ flex-direction:column;
 text-align:center;}
 
 .cate_ssfo a{font-size:6.5px;
-color:var(--gris)!important;}
+color:var(--gris)!important; transition:all 0.5s;}
 
 .cate_ssfo a:hover{font-size:6.5px;
-color:var(--v)!important;}
+color:var(--v)!important;text-decoration:none!important; letter-spacing:-0.5px;}
 
 
