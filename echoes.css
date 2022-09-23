@@ -566,7 +566,6 @@ margin-left:20px;}
 
 .cate_ssfo{width:103px;
 height:65px; 
-font-size:2px; 
 overflow-y:auto;
 border:0px solid white;
 margin-left:8px;
@@ -578,10 +577,10 @@ display:flex;
 flex-direction:column;
 text-align:center;}
 
-.cate_ssfo a{font-size:6.5px;
+.cate_ssfo a{font-size:8px;
 color:var(--gris)!important; transition:all 0.5s;}
 
-.cate_ssfo a:hover{font-size:6.5px;
+.cate_ssfo a:hover{
 color:var(--v)!important;text-decoration:none!important; letter-spacing:-0.5px;}
 
 
