@@ -1,4 +1,4 @@
-/* ------------- SWITCHEROO ------------- */
+/* ---------------------------------------------------------------     SWITCHEROO     ---------------------------------------------------------- */
 
 :root {  --color-text: rgba(255, 255, 255, 0.87);
   --color-bg: #17141b;
@@ -489,7 +489,7 @@ cursor: pointer;}
 
 
 
-/* CATEGORIES */
+/*---------------------------------------------------------------       CATEGORIES      ----------------------------------------------------------*/
 
 .bodyline{background-image:url("https://images2.imgbox.com/cf/2b/EkaU32MU_o.jpg")!important;
 background-size:100%;
@@ -543,7 +543,11 @@ line-height:18px;}
 
 .cate_forumtt a{text-decoration:none!important;
 text-transform:uppercase;
-font-size:11px; color:var(--fond4)!important; letter-spacing:0.5px;}
+font-size:9.5px; color:var(--fond4)!important; letter-spacing:0.5px;
+font-family:avenir next;
+transition: all 0.7s;}
+
+.cate_forumtt a:hover{text-decoration:none!important;color:var(--fond4)!important; letter-spacing:-0.3px;}
 
 .cate_last{display:flex;}
 
