@@ -559,9 +559,11 @@ margin-top:5px;}
 font-family:avenir next; }
 
 .cate_lastp a{ color:var(--blanc)!important; text-decoration:none; font-style:italic; font-family:avenir next demi;
-font-size:11px;}
+font-size:11px; transition:all 0.4s;}
 
-.cate_lastp a.gensmall{color:var(--v)!important; text-transform:lowercase; letter-spacing:1.3px; font-style:normal; font-size:10px;}
+.cate_lastp a:hover, .cate_lastp a.gensmall:hover{text-decoration:none!important; letter-spacing:-0.4px;}
+
+.cate_lastp a.gensmall{color:var(--v)!important; text-transform:lowercase; letter-spacing:1.3px; font-style:normal; font-size:10px; transition:all 1.5s;}
 
 .cate_nombre{font-size:7px; color:var(--blanc); letter-spacing:2.4px; font-style:italic; margin-top:4px;
 margin-left:20px;}
@@ -587,4 +589,3 @@ color:var(--gris)!important; transition:all 0.5s;}
 
 .cate_ssfo a:hover{
 color:var(--v)!important;text-decoration:none!important; letter-spacing:-0.5px;}
-
