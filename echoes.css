@@ -531,7 +531,7 @@ font-style:italic;}
 
 .cate_colonne2{display:flex; flex-direction:column;}
 
-.cate_forumtt{background-image:linear-gradient(90deg, var(--jaune), var(--v));
+.cate_forumtt{background-image:linear-gradient(90deg, var(--jaune2), var(--v3));
 width:260px;
 margin-left:-10px;
 margin-right:-20px;
