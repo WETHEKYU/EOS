@@ -549,6 +549,8 @@ transition: all 0.7s;}
 
 .cate_forumtt a:hover{text-decoration:none!important;color:var(--fond4)!important; letter-spacing:-0.3px;}
 
+.cate_forumtt img{display:none;}
+
 .cate_last{display:flex;}
 
 .cate_imglast img{ width:65px; height:65px; object-fit:cover; border-radius:50px;
