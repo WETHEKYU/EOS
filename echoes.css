@@ -732,7 +732,7 @@ font-size:11px; transition:all 0.4s;}
 .cate_nombre{font-size:7px; color:var(--blanc); letter-spacing:2.4px; font-style:italic; margin-top:4px;
 margin-left:20px;}
 
-.last-post-icon img{width:10px;  margin-bottom:-2px;}
+.cate_lastp a img{width:10px;  margin-bottom:-2px;}
 
 .cate_ssfo{width:103px;
 height:65px; 
