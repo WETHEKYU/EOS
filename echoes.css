@@ -773,6 +773,8 @@ justify-content:space-around;}
 
 #qeel_rond1{width:30px; height:30px; background-color:var(--g1);
 border-radius:50px;
+-webkit-border-radius :50px;
+-moz-border-radius:50px;
 float:right;
 margin-top:50px;
 margin-right:35px;
