@@ -1101,9 +1101,6 @@ transition:1.5s all; overflow:hidden;}
 
 .post_mp{position:absolute; top:371.5px; right:12px; background-color:var(--fond3); padding:3px 8px; color:var(--blanc); text-transform:uppercase; font-size:5.7px;  font-family:avenir next; letter-spacing:1.5px;}
 
-.post_mp a{color:var(--blanc)!important; text-decoration:none!important;}
-
-.post_mp a:hover{text-decoration:none!important; color:var(--r2)!important;}
 
 .post_ongletscontent{color:var(--blanc);
 padding:4px;border:3px solid var(--fond3); width:186px; height:90px;
@@ -1115,26 +1112,6 @@ overflow-y:auto; margin-top:7px;}
 .post_barre{position:relative;}
 .post_barre2{position:absolute; width:2px; height:101.3%; background-color:var(--fond2);
 top:0px; right:4px; }
-
-
-.post_haut{display:flex; justify-content:space-between; position:relative; margin-top:6px;}
-
-.post_sujet{ margin-top:4px; font-size:9px; text-transform:uppercase; color:var(--blanc); font-family:avenir next demi; font-style:italic; letter-spacing:0.5px;}
-
-.post_date{ font-size:9px; color:var(--gris); position:absolute; right:0px; font-size:9px; color:var(--gris); position:absolute; right:210px; top:3px;}
-
-.post_editetc{margin-right:5px;margin-top:-1px; margin-bottom:1px;}
-
-.post_editetc img{height:14px;}
-
-.i_icon_delete{margin-bottom:-1px;}
-
-
-.post_bas{background-color:var(--fond6); padding:5px; width:95%; margin:auto;}
-
-.post_contenusujet{border:1px solid var(--fond3);margin: 7px 7px 0px 7px; padding:4px; color:var(--blanc); min-height:450px;}
-
-.post_editmsg{color:var(--gris); text-transform:uppercase; font-size:6px; position:relative; left:8px;letter-spacing:1.5px;top:-2px;}
 
 
 
