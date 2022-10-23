@@ -1101,9 +1101,9 @@ transition:1.5s all; overflow:hidden;}
 
 .post_mp{position:absolute; top:371.5px; right:12px; background-color:var(--fond3); padding:3px 8px; color:var(--blanc); text-transform:uppercase; font-size:5.7px;  font-family:avenir next; letter-spacing:1.5px;}
 
-.post_mp a{color:var(--blanc); text-decoration:none;}
+.post_mp a{color:var(--blanc)!important; text-decoration:none!important;}
 
-.post_mp a:hover{text-decoration:none!important; color:var(--r2);}
+.post_mp a:hover{text-decoration:none!important; color:var(--r2)!important;}
 
 .post_ongletscontent{color:var(--blanc);
 padding:4px;border:3px solid var(--fond3); width:186px; height:90px;
@@ -1164,7 +1164,7 @@ background-size:100%; width:90px; height:17px;}
 
 .fa_like_list, .fa_dislike_list{max-width:450px; height:13px; line-height:13px;margin:auto;margin-top:5px; text-align:center; text-transform:uppercase; font-size:6px; letter-spacing:1px; font-family:avenir next; background-color:var(--fond2); border:1px solid var(--fond4); color:var(--gris); overflow-x:hidden;}
 
-.fa_like_list a, .fa_dislike_list a{color:var(--r); text-decoration:none;}
+.fa_like_list a, .fa_dislike_list a{color:var(--r)!important; text-decoration:none!important;}
 
 .fa_like_list a:hover, .fa_dislike_list a:hover{text-decoration:none!important;}
 
@@ -1175,13 +1175,13 @@ background-size:100%; width:90px; height:17px;}
 .post_page span{color:var(--gris); font-family:avenir next; text-transform:uppercase; font-size:7px; letter-spacing:2px; margin-left:3px;}
 
 .post_surveiller{text-align:center; }
-.post_surveiller a{text-decoration:none; text-transform:lowercase; font-style:italic; color:var(--gris);}
+.post_surveiller a{text-decoration:none!important; text-transform:lowercase; font-style:italic; color:var(--gris)!important;}
 
-.post_surveiller a:hover{ color:var(--v); text-decoration:none!important;}
+.post_surveiller a:hover{ color:var(--v)!important; text-decoration:none!important;}
 
 .post_pagination2{margin-right:3px;}
 
-.post_pagination2 a{ text-decoration:none; color:var(--gris); text-transform:uppercase; font-family:avenir next; font-size:7px; letter-spacing:1px;}
+.post_pagination2 a{ text-decoration:none!important; color:var(--gris)!important; text-transform:uppercase; font-family:avenir next; font-size:7px; letter-spacing:1px;}
 
 .post_pagination2 a:hover{text-decoration:none!important;}
 
@@ -1209,7 +1209,7 @@ div.sceditor-toolbar{border-bottom:1px solid var(--fond4)!important;}
 
 .sceditor-group{background-color:var(--fond4)!important; border:1px solid var(--fond6)!important;}
 
-a.hover{ background-color: var(--fond3);}
+a.hover{ background-color: var(--fond3)!important;}
 
 input[name="preview"]{text-transform:uppercase; font-size:7px; font-family:avenir next; letter-spacing:1.5px; height:17px; color:var(--blanc); line-height:14px; border:1px solid var(--fond4);}
 
@@ -1223,9 +1223,9 @@ input[name="post"]{text-transform:uppercase; font-size:8px; font-family:avenir n
 
 .post_authl{position:relative;}
 
-.post_authl a{font-size:9px; text-decoration:none; position:absolute; right:10px; top:5px; font-family:canterbury; font-size:12px; color:var(--v); transition:all 1s;}
+.post_authl a{font-size:9px; text-decoration:none!important; position:absolute; right:10px; top:5px; font-family:canterbury; font-size:12px; color:var(--v)!important; transition:all 1s;}
 
-.post_authl a:hover{text-decoration:none!important; color:var(--r2);}
+.post_authl a:hover{text-decoration:none!important; color:var(--r2)!important;}
 
 .post_boutonsbot{display:flex; margin-top:2px; margin-left:5px;}
 
@@ -1233,7 +1233,7 @@ div.post_repondre{margin-left:3px!important;}
 
 .post_navbot img{display:none;}
 
-.post_navbot a,.post_navbot t2, .post_navbot t3 {color:var(--blanc)!important; font-size:9px; font-family:avenir next!important; text-transform:uppercase; letter-spacing:1.5px; font-style:normal; text-decoration:none;font-weight:400!important; }
+.post_navbot a,.post_navbot t2, .post_navbot t3 {color:var(--blanc)!important; font-size:9px; font-family:avenir next!important; text-transform:uppercase; letter-spacing:1.5px; font-style:normal; text-decoration:none!important;font-weight:400!important; }
 
 .post_navbot a:hover{text-decoration:none!important;}
 
