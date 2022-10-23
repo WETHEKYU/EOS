@@ -1196,7 +1196,7 @@ e1{background-color:var(--gris); font-family:avenir next; font-size:10px; border
 e2{color:var(--r); font-family:canterbury; font-size:16px; margin-right:3px;}
 e3{color:var(--blanc); font-family:avenir next; text-transform:uppercase; font-size:7px; letter-spacing:6.6px; margin-top:-25px; margin-left:1px;}
 e4{color:var(--r); font-size:13px; font-family:avenir next demi; letter-spacing:-1px; font-style:italic;}
-.fpl_c2t strike{color:white;}
+
 
 
 .fpl_tt{color:var(--blanc); margin-left:20px;height:30px; line-height:30px; font-family:avenir next; font-style:italic; letter-spacing:1px;}
@@ -1224,7 +1224,6 @@ background-size:110%;padding-top:6px;padding-bottom:6px; display:flex; justify-c
 .fpl_c2{display:flex; margin:auto; flex-direction:column; width:320px; position:relative;}
 
 .fpl_c2t{color:var(--blanc); font-size:7px;}
-.fpl_c2t span{color:red;}
 
 .fpl_c2img{width:50px; position:absolute; top:-26px; right:5px; border-radius:50px; border:2px solid var(--fond3);}
 
