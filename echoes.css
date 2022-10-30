@@ -1278,3 +1278,27 @@ background-size:110%;padding-top:6px;padding-bottom:6px; display:flex; justify-c
 .c_r9b t2{text-decoration:none;}
 .c_r9b t1{font-size:16px;}
 
+
+/* FICHE VALIDATION */
+
+.fval_tt{width:500px; background-image:url('https://images2.imgbox.com/cf/2b/EkaU32MU_o.jpg'); margin:auto; border-top-left-radius:15px; border-top-right-radius:15px;position:relative; height:35px; background-size:150%;line-height:35px;color:var(--v); font-family:avenir next; font-size:20px;font-style:italic;}
+
+.fval_img{position:absolute;
+width:58px; height:58px; object-fit:cover; border-radius:50px; top:-9px; outline:1px solid; outline-offset:4px;}
+
+.fval_img2{position:absolute; width:58px; height:58px; background-color:var(--v);
+border-radius:50px; top:-9px; opacity:0.5;}
+
+e6{margin-left:70px; font-family:canterbury; font-size:25px; text-decoration:underline 1px solid var(--r); text-underline-offset:3px; color:var(--blanc); font-style:normal;}
+
+.fval_sst{margin-left:90px;margin-top:-15px; font-family:avenir next; text-transform:uppercase; font-size:8px; letter-spacing:7px;}
+
+.fval2{display:flex; justify-content:space-between;}
+
+.fval_c1{width:120px; height:200px; background-color:var(--fond1); margin-left:15px;}
+
+.fval_c2{width:380px; background-image:url('https://images2.imgbox.com/cf/2b/EkaU32MU_o.jpg'); background-size:170%;margin-right:22px;}
+
+.fval_msg{background-color:var(--fond7); width:364px; height:184px; margin:auto; margin-top:8px;}
+
+
