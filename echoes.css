@@ -1299,6 +1299,5 @@ e6{margin-left:70px; font-family:canterbury; font-size:25px; text-decoration:und
 
 .fval_c2{width:380px; background-image:url('https://images2.imgbox.com/cf/2b/EkaU32MU_o.jpg'); background-size:170%;margin-right:22px;}
 
-.fval_msg{background-color:var(--fond7); width:364px; height:184px; margin:auto; margin-top:8px;}
-
+.fval_msg{background-color:var(--fond7); width:352px; height:177px; margin:auto; margin-top:10px; padding:2px 5px; overflow-y:auto; text-align:justify;}
 
