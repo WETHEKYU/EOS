@@ -1327,9 +1327,12 @@ background-color:var(--fond2); font-family:avenir next; text-transform:uppercase
 
 .bt_3c{display:flex;}
 
-.bt_c1{display:flex;}
+.bt_c1{display:flex; overflow-y:auto;}
 
-.bt_c1a{width:100px;}
+.bt_c1a{width:100px; text-align:center;display:flex; flex-direction:column; justify-content:space-between;}
+
+.bt_c1a span{font-family:avenir next; font-size:16px; text-decoration:underline 1px solid var(--v); text-underline-offset:2px; font-style:italic;}
 
 .bt_c1b{width:200px;}
 
+.bt_cont{width:190px; height:50px; background-color:var(--fond1);}
