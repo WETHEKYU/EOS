@@ -1304,4 +1304,32 @@ e6{margin-left:70px; font-family:canterbury; font-size:25px; text-decoration:und
 .fval_msg{background-color:var(--fond7); width:352px; height:177px; margin:auto; margin-top:10px; padding:2px 5px; overflow-y:auto; text-align:justify;}
 
 
+/*  BOTTIN AVATARS */
+
+
+t4{font-family:canterbury; font-size:20px;}
+
+.bt_tt{position:relative; text-align:center; width:550px; margin:auto; margin-bottom:-27px;margin-top:10px;}
+
+.bt_tt span{background-color:var(--fond2); border-radius:15px; padding:5px 15px;}
+
+.bt_fkimg{position:absolute; width:40px; height:40px; background-image:linear-gradient(-100deg,var(--v3), var(--jaune)); top:-10px;right:140px; border-radius:50px; outline:1px solid var(--v); outline-offset:2px;}
+
+.bt_sstt2{background-image:linear-gradient(90deg,var(--jaune2),var(--v3));
+margin:auto; width:551px;padding:1px;height:60px;margin-bottom:-26px;border-top-right-radius:16px;border-top-left-radius:16px;}
+
+.bt_sstt{ width:541px; text-align:center;  padding:5px; padding-top:10px; height:45px;border-top-right-radius:16px;border-top-left-radius:16px;
+background-color:var(--fond2); font-family:avenir next; text-transform:uppercase; font-size:7px; letter-spacing:5px;line-height:14px;}
+
+.bt_sstt span{margin-left:-140px; display:inline-block; }
+
+.bt_sstt u{text-decoration:underline 1px dotted darkblue; text-underline-offset:2px;}
+
+.bt_3c{display:flex;}
+
+.bt_c1{display:flex;}
+
+.bt_c1a{width:100px;}
+
+.bt_c1b{width:200px;}
 
